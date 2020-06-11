@@ -1,3 +1,4 @@
+Adding a line of text
 Hello
 Have a great day
 The choice is yours
